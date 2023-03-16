@@ -1,0 +1,7 @@
+task:
+   name: Test Task
+   max_time: 2 hours
+   description: Do your stuff.
+   steps:
+      - Step 1
+      - Step 2
